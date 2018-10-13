@@ -41,4 +41,19 @@ Modify your code from part B so that the face changes fluidly from the neutral e
 
 * [Paul](https://editor.p5js.org/PaulKnipper/sketches/r1V1N7B9m)
 * [Ji Su](https://editor.p5js.org/jhwang15/sketches/rJYA112Fm)
+* [Christine](https://editor.p5js.org/cwei1/sketches/BJ38X4htQ)
+* [Anne](https://editor.p5js.org/asuerto/sketches/HysUFvAqX)
+* [Nicole](https://editor.p5js.org/nwang/sketches/SJbRUeztQ)
+* [Pheobe](https://editor.p5js.org/nwang/sketches/SJbRUeztQ)
+* [Maxwell](https://editor.p5js.org/maxwell.f26/sketches/H1kJlEnYQ)
+* [Arna](https://editor.p5js.org/arnachen/sketches/ryCjuHnF7)
+* [Wendy](https://editor.p5js.org/wendysaurus/sketches/SyXdA7nFQ)
+* [Danny](https://editor.p5js.org/dannygray/sketches/BkDj9ghtX)
+Natalia
+
+
+
+
+
+
 
