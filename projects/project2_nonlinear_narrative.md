@@ -22,3 +22,10 @@ Sound Bible
 Sound On Loop
 
 * [Jisu](https://editor.p5js.org/jhwang15/sketches/B1E6FO99Q)
+* [Maxwell](https://editor.p5js.org/maxwell.f26/sketches/ByFzdkPim)
+* [Christine](https://editor.p5js.org/cwei1/sketches/rklIsYAqX)
+* [Arna](https://editor.p5js.org/arnachen/sketches/Bkb6owCqQ)
+* [Pheobe](https://editor.p5js.org/phsu17/sketches/SylgxvpAqX)
+
+
+
