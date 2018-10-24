@@ -26,6 +26,8 @@ Sound On Loop
 * [Christine](https://editor.p5js.org/cwei1/sketches/rklIsYAqX)
 * [Arna](https://editor.p5js.org/arnachen/sketches/Bkb6owCqQ)
 * [Pheobe](https://editor.p5js.org/phsu17/sketches/SylgxvpAqX)
+* [Nicole](https://editor.p5js.org/nwang/sketches/ryOwxqDjm)
+
 
 
 
