@@ -49,6 +49,7 @@ Modify your code from part B so that the face changes fluidly from the neutral e
 * [Arna](https://editor.p5js.org/arnachen/sketches/ryCjuHnF7)
 * [Wendy](https://editor.p5js.org/wendysaurus/sketches/SyXdA7nFQ)
 * [Danny](https://editor.p5js.org/dannygray/sketches/BkDj9ghtX)
+* [Natalia](https://editor.p5js.org/nszmidt/sketches/Bk-DhLBcQ)
 
 
 
