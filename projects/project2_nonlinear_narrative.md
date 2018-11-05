@@ -29,5 +29,6 @@ Sound On Loop
 * [Nicole](https://editor.p5js.org/nwang/sketches/ryOwxqDjm)
 * [Wendy](https://editor.p5js.org/wendysaurus/sketches/S1ktDe1oX)
 * [Paul](https://editor.p5js.org/PaulKnipper/sketches/r1OWq0xhQ)
+* [Natalia](https://editor.p5js.org/nszmidt/sketches/SJnSzmZ27)
 
 
