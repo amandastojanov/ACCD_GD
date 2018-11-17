@@ -9,3 +9,8 @@ With your audio track in mind, sketch 5 different distinct patterns that will be
 
 ## Part C
 Now that you have all five sketches complete, your task is to combine them into one continuous sketch that plays along with the music. Think about how you can trigger your different patterns. Possible triggers might be volume (amplitude) or time cues. Your code will be significantly easier to manage if you roll your patterns into functions.
+
+
+* [Christine](https://editor.p5js.org/cwei1/sketches/HJqoaZZnX)
+* [Pheobe](https://editor.p5js.org/phsu17/sketches/rJTk2xds7)
+
