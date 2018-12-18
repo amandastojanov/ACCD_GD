@@ -18,3 +18,11 @@ Patatap
 * [Paul](https://editor.p5js.org/PaulKnipper/sketches/r1S2IgZhX)
 * [Pheobe](https://editor.p5js.org/phsu17/sketches/rJTk2xds7)
 * [Danny](https://editor.p5js.org/dannygray/sketches/BJTx-4c2Q)
+
+
+Ji Su
+Anne
+Pheobe
+Wendy
+Danny
+Natalia
