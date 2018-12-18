@@ -32,3 +32,6 @@ Sound On Loop
 * [Natalia](https://editor.p5js.org/nszmidt/sketches/SJnSzmZ27)
 
 
+Anne
+Maxwell
+Danny
