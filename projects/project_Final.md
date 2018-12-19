@@ -5,3 +5,17 @@ Our assignments so far have been fairly restrictive. For your final project, I w
 
 Please prepare a proposal to share with the class for Monday November 27. Your proposal must include a description of your piece, how you plan to show it, and at least three references or inspiration projects. The proposal doesn’t need to be more than 2-3 short paragraphs. I will do whatever I can to help aid in the completion of your project.
 
+* [Christine](https://editor.p5js.org/cwei1/sketches/HkyNHDyJ4)
+* [Nicole](https://editor.p5js.org/nwang/sketches/B1LAR0gxN)
+* [Paul](https://editor.p5js.org/PaulKnipper/sketches/BkCNxry1N)
+* [Pheobe](https://editor.p5js.org/phsu17/sketches/HkqxecOJV)
+* [Arna](https://editor.p5js.org/arnachen/sketches/S1cekgTT7)
+* [Ji Su](https://editor.p5js.org/jhwang15/sketches/SkszSOuJ4)
+
+
+Anne
+Wendy 
+Maxwell
+Wendy
+Danny
+Natalia
