@@ -22,7 +22,6 @@ Patatap
 
 Ji Su
 Anne
-Pheobe
 Wendy
 Danny
 Natalia
