@@ -11,11 +11,10 @@ Please prepare a proposal to share with the class for Monday November 27. Your p
 * [Pheobe](https://editor.p5js.org/phsu17/sketches/HkqxecOJV)
 * [Arna](https://editor.p5js.org/arnachen/sketches/S1cekgTT7)
 * [Ji Su](https://editor.p5js.org/jhwang15/sketches/SkszSOuJ4)
+* [Anne](https://editor.p5js.org/asuerto/sketches/Hk6KTjZeV)
+* [Maxwell](https://editor.p5js.org/maxwell.f26/sketches/ryaEknbeV)
+* [Natalia](https://editor.p5js.org/nszmidt/sketches/By5jTcQaX)
 
 
-Anne
 Wendy 
-Maxwell
-Wendy
 Danny
-Natalia
